@@ -8,7 +8,5 @@ Feel free to explore the code and see how I approached each problem!
 - **hw3i.py**: Simulates daily bank transactions with deposits and withdrawals.
 
 ## Purpose
-I created this repository to organize my assignments and share my progress. Why not push it to GitHub, right? 😄
+I created this repository to organize my assignments and share my progress. Why not push it to GitHub.
 
----
-Happy coding! 🚀
